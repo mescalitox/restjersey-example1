@@ -2,6 +2,10 @@
 *	xml [http://www.journaldev.com/9170/restful-web-services-tutorial-in-java-using-jersey-and-resteasy]
 * 	json [https://www.mkyong.com/webservices/jax-rs/json-example-with-jersey-jackson/]
 
+#creation eclipse
+
+new web dynamic project, puis maven > convertir en projet maven
+
 #test avec soapUI ou outildev firefox
 
 *	add
