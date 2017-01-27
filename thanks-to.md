@@ -39,3 +39,9 @@ new web dynamic project, puis maven > convertir en projet maven
 ```json
 	{"name":"Dummy","salary":8976.55,"id":1}
 ```	
+
+#différence entre servlet 2.5 et 3.0
+
+http://stackoverflow.com/questions/1638865/what-are-the-differences-between-servlet-2-5-and-3
+
+annotation
